@@ -1,6 +1,6 @@
 This is the test project based on DOM. Manipulating table using DOM.
 
-## Requirements
+## Instructions
 
 1. When exam.html is opened in the browser, the content of variable TABLE_DATA in json/data.js will appear as a table on the browser. Table column order should adhere to the order already written in exam.html.
 2. When button#start is clicked, table rows will randomly rearrange every second.
